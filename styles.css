@@ -14,13 +14,13 @@
     }
 }
 
-body {}
-
 h1 {
     text-align: center;
 }
 
-ol {}
+h2 {
+    text-align: center;
+}
 
 p {
     font-size: 14pt;
